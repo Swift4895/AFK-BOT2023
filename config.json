@@ -1,0 +1,9 @@
+{
+	"ip":"TheLuigiSMP.aternos.me",
+	"port": 22915,
+	"name": "afkbot1",
+	"auto-night-skip":"True",
+	"login-enabled":"false",
+	"register-cmd":"/register (type_ur_pass_here(remember_no_spaces)) (type_ur_pass_here(remember_no_spaces))",
+	"login-cmd":"/login (type_ur_pass_here)"
+}
